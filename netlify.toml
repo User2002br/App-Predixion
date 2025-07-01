@@ -6,7 +6,7 @@
   NODE_VERSION = "18"
 
 [context.production.environment]
-  NODE_ENV = "production"
+  # NODE_ENV = "production"
 
 [[redirects]]
   from = "/*"
